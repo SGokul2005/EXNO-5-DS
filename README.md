@@ -45,7 +45,7 @@ y2 = [4,1,3]
  plt.show()
 ```
 ![Screenshot 2025-05-06 112504](https://github.com/user-attachments/assets/9baad57b-c3ef-4562-a103-be3ca578e9f4)
-```
+
 ```
  import matplotlib.pyplot as plt
  x=[1,2,3,4,5,6]
